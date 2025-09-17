@@ -1,0 +1,89 @@
+Servidor escuchando en puerto 8080
+Cliente conectado desde 127.0.0.1:54770
+Cliente conectado desde 127.0.0.1:54780
+Cliente conectado desde 127.0.0.1:54786
+Cliente conectado desde 127.0.0.1:53752
+Cliente conectado desde 127.0.0.1:53764
+Cliente conectado desde 127.0.0.1:53770
+Cliente conectado desde 127.0.0.1:53772
+Cliente conectado desde 127.0.0.1:53784
+Cliente conectado desde 127.0.0.1:53792
+Cliente conectado desde 127.0.0.1:48962
+Cliente conectado desde 127.0.0.1:48966
+Cliente conectado desde 127.0.0.1:48968
+Cliente conectado desde 127.0.0.1:56934
+Cliente conectado desde 127.0.0.1:41936
+Cliente conectado desde 127.0.0.1:41952
+Cliente conectado desde 127.0.0.1:41956
+Cliente conectado desde 127.0.0.1:33202
+Cliente conectado desde 127.0.0.1:58822
+Cliente conectado desde 127.0.0.1:43506
+Servidor escuchando en puerto 8080
+Cliente conectado desde 127.0.0.1:43812
+Cliente conectado desde 127.0.0.1:54264
+Cliente conectado desde 127.0.0.1:54280
+Cliente conectado desde 127.0.0.1:48930
+Servidor escuchando en puerto 8080
+Cliente conectado desde 127.0.0.1:49018
+Cliente conectado desde 127.0.0.1:44130
+Cliente conectado desde 127.0.0.1:44640
+Cliente conectado desde 127.0.0.1:44656
+Cliente conectado desde 127.0.0.1:59538
+Cliente conectado desde 127.0.0.1:34924
+Cliente conectado desde 127.0.0.1:41972
+Cliente conectado desde 127.0.0.1:41984
+Cliente conectado desde 127.0.0.1:34328
+Cliente conectado desde 127.0.0.1:34336
+Cliente conectado desde 127.0.0.1:42388
+Cliente conectado desde 127.0.0.1:59498
+Cliente conectado desde 127.0.0.1:40848
+Cliente conectado desde 127.0.0.1:43958
+Cliente conectado desde 127.0.0.1:43964
+Cliente conectado desde 127.0.0.1:43980
+Cliente conectado desde 127.0.0.1:43986
+Cliente conectado desde 127.0.0.1:44002
+Cliente conectado desde 127.0.0.1:35920
+Cliente conectado desde 127.0.0.1:48632
+Cliente conectado desde 127.0.0.1:34774
+Cliente conectado desde 127.0.0.1:34790
+Cliente conectado desde 127.0.0.1:34796
+Cliente conectado desde 127.0.0.1:50322
+Cliente conectado desde 127.0.0.1:50338
+Servidor escuchando en puerto 8080
+Servidor escuchando en puerto 8080
+Cliente conectado desde 127.0.0.1:52652
+Cliente conectado desde 127.0.0.1:43584
+Servidor escuchando en puerto 8080
+Servidor escuchando en puerto 8080
+Servidor escuchando en puerto 8080
+Servidor escuchando en puerto 8080
+Servidor escuchando en puerto 8080
+Cliente conectado desde 127.0.0.1:41422
+Cliente conectado desde 127.0.0.1:44750
+Cliente conectado desde 127.0.0.1:46172
+Cliente conectado desde 127.0.0.1:33142
+Cliente conectado desde 127.0.0.1:55690
+Cliente conectado desde 127.0.0.1:55694
+Cliente conectado desde 127.0.0.1:55698
+Cliente conectado desde 127.0.0.1:60006
+Cliente conectado desde 127.0.0.1:60004
+Cliente conectado desde 127.0.0.1:60016
+Cliente conectado desde 127.0.0.1:44550
+Cliente conectado desde 127.0.0.1:55016
+Cliente conectado desde 127.0.0.1:49420
+Cliente conectado desde 127.0.0.1:42074
+Cliente conectado desde 127.0.0.1:34210
+Cliente conectado desde 127.0.0.1:34224
+Servidor escuchando en puerto 8080
+Cliente conectado desde 127.0.0.1:49286
+Cliente conectado desde 127.0.0.1:35782
+Cliente conectado desde 127.0.0.1:35788
+Cliente conectado desde 127.0.0.1:35796
+Cliente conectado desde 127.0.0.1:35348
+Cliente conectado desde 127.0.0.1:42470
+Cliente conectado desde 127.0.0.1:42486
+Cliente conectado desde 127.0.0.1:42496
+Servidor escuchando en puerto 8080
+Servidor escuchando en puerto 8080
+Servidor escuchando en puerto 8080
+Cliente conectado desde 127.0.0.1:43862
