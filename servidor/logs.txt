@@ -1,0 +1,4 @@
+Servidor escuchando en puerto 8080
+Cliente conectado: 127.0.0.1:36236
+Mensaje de 127.0.0.1:36236 [Observador] -> LOGIN|admin:1234
+Cliente desconectado: 127.0.0.1:36236
