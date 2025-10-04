@@ -47,7 +47,7 @@ void broadcastTelemetry() {
 
 void *telemetryThread(void *arg) {
     while (1) {
-        sleep(1);
+        sleep(10);
         broadcastTelemetry();
     }
     return NULL;
