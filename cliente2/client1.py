@@ -3,7 +3,7 @@ import threading
 import tkinter as tk
 from tkinter import messagebox
 
-SERVER_HOST = "127.0.0.1"
+SERVER_HOST = "" # direccion ip del servidor
 SERVER_PORT = 8080
 
 # Estado del cliente
