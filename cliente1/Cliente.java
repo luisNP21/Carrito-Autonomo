@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.io.*;
 import java.net.*;
 
-public class TelemetryClient {
+public class Cliente {
     private static final String SERVER_HOST = "";//IP SERVIDOR
     private static final int SERVER_PORT = 8080;
 
