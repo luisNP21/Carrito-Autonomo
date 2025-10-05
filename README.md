@@ -196,7 +196,7 @@ El administrador **conserva privilegios** incluso si **cambia su dirección** de
 
 El servidor **no permanece encendido** de forma continua.
 Para realizar pruebas, **avisa** para **encender la instancia EC2**.
-Una vez encendida, se proporcionará la **IP pública actual**, que debes **configurar manualmente** en los clientes **Python** y **Java** antes de conectarte.
+Una vez encendida, se proporcionará la **IP pública actual**, que se debe **configurar manualmente** en los clientes **Python** y **Java** antes de conectarse.
 
 > La IP **cambia** automáticamente cada vez que la instancia se **apaga** y **reinicia**.
 
