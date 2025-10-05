@@ -25,12 +25,12 @@ Carrito-Autonomo/
 │   ├── utils.h
 │
 ├── cliente1/              # Cliente Python
-│   └── client.py
+│   └── client1.py
 │
 ├── cliente2/              # Cliente Java
-│   ├── Main.java
+│   ├── Cliente.class
 │   ├── Cliente.java
-│   ├── GUI.java
+│   
 │
 ├── logs/                  # Registros de eventos del servidor
 │   └── log.txt
